@@ -7,7 +7,7 @@ from urllib.parse import quote
 
 
 
-data = pd.read_csv("vitesse2021.csv")
+data = pd.read_csv("vitesse2021_reduit.csv")
 
 df = data[:200000]
 
