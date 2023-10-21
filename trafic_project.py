@@ -7,7 +7,7 @@ from urllib.parse import quote
 
 
 
-data = pd.read_csv("C:\\Users\\Xou\\Desktop\\S7\\DV\\final\\vitesse2021.csv")
+data = pd.read_csv("vitesse2021.csv")
 
 df = data[:200000]
 
